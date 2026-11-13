@@ -1,0 +1,13 @@
+# Function Approximation with a Neural Network (Group 6)
+# Install with:  pip install -r requirements.txt
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+
+# To run the .ipynb notebook
+notebook
+ipykernel
